@@ -31,7 +31,7 @@ const ContactSection = () => {
   return (
     <section id="contacto" className="py-20 bg-white">
       <div className="container mx-auto px-4">
-        <h2 className="text-3xl font-bold text-center text-green-800 mb-12">Contáctenos</h2>
+        <h2 className="text-3xl font-bold text-center text-green-800 mb-12">Contacto</h2>
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12">
           {/* Formulario */}
           <div>
