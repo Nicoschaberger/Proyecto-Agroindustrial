@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Proyecto-Agroindustrial/static/css/main.1c0fb5f6.css",
+    "main.js": "/Proyecto-Agroindustrial/static/js/main.aed98e50.js",
+    "index.html": "/Proyecto-Agroindustrial/index.html",
+    "main.1c0fb5f6.css.map": "/Proyecto-Agroindustrial/static/css/main.1c0fb5f6.css.map",
+    "main.aed98e50.js.map": "/Proyecto-Agroindustrial/static/js/main.aed98e50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c0fb5f6.css",
+    "static/js/main.aed98e50.js"
+  ]
+}
